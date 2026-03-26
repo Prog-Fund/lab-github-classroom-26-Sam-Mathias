@@ -12,6 +12,7 @@ import java.util.ArrayList;
 
 public class NewsFeed {
 
+
     private ArrayList<Post> posts;
 
     public NewsFeed() {
